@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Projects that i wanna make
 - 📫 How to reach me +91 7434076092
 
+![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2FHetjoshi1684)
+
 <!---
 D-ENCODER/D-ENCODER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
