@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/86153190/180595867-8ba21e63-0cbc-46fc-a186-c749f56d921e.jpg)](https://github.com/D-ENCODER)
 <h1 align="center">Hi 👋, I'm Het Joshi</h1>
 <h3 align="center">I am a data analyst with a passion for storytelling. I believe that words and data are the two most powerful tools to change the world.</h3>
 
