@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-encoder&show_icons=true&theme=dark&locale=en" alt="d-encoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-encoder&theme=dark" alt="d-encoder" /></p>
-
